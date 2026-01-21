@@ -18,3 +18,5 @@ Decide for yourself, if you want to start your scientific career in this field.
 [arXiv:2504.02385](https://arxiv.org/abs/2504.02385)
 
 [IBM Quantum Roadmap 2029](https://www.ibm.com/roadmaps/quantum/2029/)
+
+[The repository of this project](https://github.com/dsmic/Quantum-Computer-Approaches-to-the-2D-Hubbard-model/)
